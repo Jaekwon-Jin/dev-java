@@ -1,2 +1,3 @@
 /target/
-src/main/java/spring/AmazonSES
+src/main/java/spring/AmazonSES.java
+src/main/java/config/aws.properties
