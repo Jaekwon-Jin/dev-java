@@ -1,3 +1,5 @@
 /target/
 src/main/java/spring/AmazonSES.java
 src/main/java/config/aws.properties
+src/main/resource/aws.properties
+src/main/resource/application.properties
