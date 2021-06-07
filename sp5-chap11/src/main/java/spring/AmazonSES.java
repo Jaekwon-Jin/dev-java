@@ -39,7 +39,7 @@ public class AmazonSES {
 			
 			//ProfileCredentialsProvider credentialsProvider = new ProfileCredentialsProvider();
 			//credentialsProvider.getCredentials();
-			 BasicAWSCredentials basicAWSCredentials = new BasicAWSCredentials("AKIARNZAHYCFE22SI6PD", "i2XS2DZkIkAvNw23IAqKnLDk49oRa/dmZUOrwfgX");
+			 BasicAWSCredentials basicAWSCredentials = new BasicAWSCredentials("-", "-");
 		        AWSStaticCredentialsProvider awsStaticCredentialsProvider = new AWSStaticCredentialsProvider(basicAWSCredentials);
 		        
 			AmazonSimpleEmailService client = 
